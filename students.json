@@ -1,0 +1,18 @@
+[
+  {
+    "roll": 23,
+    "name": "om",
+    "branch": "cs",
+    "semester": 1,
+    "cgpa": 10.0,
+    "attendance": 88.0
+  },
+  {
+    "roll": 123,
+    "name": "tusa",
+    "branch": "cs",
+    "semester": 1,
+    "cgpa": 9.9,
+    "attendance": 77.0
+  }
+]
